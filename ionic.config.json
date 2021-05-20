@@ -1,0 +1,7 @@
+{
+  "name": "aiji_act02",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
